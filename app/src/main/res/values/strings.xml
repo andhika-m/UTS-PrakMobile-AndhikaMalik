@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">UTS-PrakMobile-AndhikaMalik</string>
+    <string name="lokasi_store">Store</string>
+    <string name="your_name">Your Name</string>
+    <string name="pepperoni_pizza_desc">Cocok bagi anda yang ingin merasakan pizza original dengan taburan keju dan daging asap yang lezat</string>
+    <string name="spaghetti_desc">Cocok bagi anda yang ingin merasakan spaghetti original dengan bumbu yang original</string>
+    <string name="burger_desc">Cocok bagi anda yang ingin merasakan kelembutan burger berlapis keju, sayuran dan daging yang tebal</string>
+    <string name="steak_desc">Cocok bagi anda yang ingin merasakan daging steak dipadukan dangan kentang yang lezat</string>
+    <string name="pizza_desc_lengkap">Pepperoni pizza adalah pizza yang memiliki topping daging pepperoni sapi asli. Di Italia, pepperoni disebut salame piccante (salami panas). Biasa menjadi bahan baku pizza di Amerika Serikat, yang sering mewakili 30% pelengkap. Pizza ini cocok untuk santap siang ataupun malam anda</string>
+    <string name="steak_desc_lengkap">Diperoleh dari daging sapi segar berkualitas tinggi, setiap gigitan steak kami adalah perpaduan sempurna antara rasa lezat dan kelembutan yang memanjakan lidah Anda.Dipadukan dengan saus spesial kami dan pilihan sampingan yang lezat, steak ini adalah pilihan terbaik untuk makan malam romantis, perayaan penting, atau bahkan hanya untuk merayakan kehidupan sehari-hari Anda.</string>
+    <string name="spaghetti_desc_lengkap">Nikmati kelezatan autentik Italia dalam setiap suapan dengan spaghetti buatan kami. Dibuat dengan pasta segar dan saus tomat khas Italia yang diolah dengan resep tradisional, setiap piring spaghetti kami adalah perpaduan sempurna antara cita rasa yang klasik dan kenyamanan.</string>
+    <string name="burger_desc_lengkap">Bawa pengalaman burger yang luar biasa dengan burger spesial kami. Setiap burger kami adalah karya seni rasa dengan daging sapi panggang yang juicy, sayuran segar, dan saus spesial yang memanjakan selera Anda.</string>
+    <string name="value_steak">Steak Wagyu A10</string>
+    <string name="value_burger">Burger Spongebob</string>
+    <string name="value_pizza">Pepperoni Pizza</string>
+    <string name="value_spagetti">Spaghetti</string>
+
+</resources>
